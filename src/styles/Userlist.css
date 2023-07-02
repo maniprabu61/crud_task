@@ -1,0 +1,12 @@
+.userList table{
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.header_action_btns{
+    display: flex;
+    justify-content: right;
+}
+.header_action_btns .adduser_btn{
+    margin: 0 1rem 0 0;
+}

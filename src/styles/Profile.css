@@ -1,0 +1,15 @@
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+.container h1{ text-align: center; }
+.Profile_card {
+    background: #ffffff;
+    margin: 0 auto;
+}
+.Profile_card .ant-card-actions{
+    background: #f8f8f8;
+}
+.container .card_container{
+    
+}

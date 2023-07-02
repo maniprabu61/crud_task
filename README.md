@@ -1,4 +1,4 @@
-# readme
+# REACT CRUD TASK
 
 ## Project setup
 
@@ -11,4 +11,4 @@ npm start
 
 ## change CRUD API
 
-/src/services/auth.service.js
+path : /src/services/auth.service.js
